@@ -1,0 +1,5 @@
+C:\Users\logatti\source\repos\ProjAula4\ProjAula4\obj\Debug\net6.0\ProjDotNetAula4-28-03.csproj.AssemblyReference.cache
+C:\Users\logatti\source\repos\ProjAula4\ProjAula4\obj\Debug\net6.0\ProjDotNetAula4-28-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logatti\source\repos\ProjAula4\ProjAula4\obj\Debug\net6.0\ProjDotNetAula4-28-03.AssemblyInfoInputs.cache
+C:\Users\logatti\source\repos\ProjAula4\ProjAula4\obj\Debug\net6.0\ProjDotNetAula4-28-03.AssemblyInfo.cs
+C:\Users\logatti\source\repos\ProjAula4\ProjAula4\obj\Debug\net6.0\ProjDotNetAula4-28-03.csproj.CoreCompileInputs.cache
